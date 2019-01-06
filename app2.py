@@ -28,7 +28,6 @@ most_complex_fractions = []
 multiplicity_of_largest_prime_factor = 0
 largest_prime_factors = []
 
-# REPLACE THIS COMMENT WITH YOUR CODE
 simplest_fractions.append((1,1))
 
 def sieve_of_primes_up_to(n):
