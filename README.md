@@ -26,4 +26,4 @@ intersects(disk), that returns True or False depending on whether
 the disk provided as argument intersects the disk object.
 absord(disk), that returns a new disk object that represents the smallest disk that contains both the disk provided as argument and the disk object. (Exploring Object Oriented Programming in Python). 
   
-app8 : From L and S input by the user as two relatively prime numbers, generates a linked list of length L, and reorders the list by starting with the Sth element (numbering elements of the list from 1), at each step jumping over S-1 elements, and looping around when needed. Eventually the original will have a new head and consist of the same nodes, but linked differently.  
+app8 : From L and S input by the user as two relatively prime numbers, generates a linked list of length L, and reorders the list by starting with the Sth element (numbering elements of the list from 1), at each step jumping over S-1 elements, and looping around when needed. Eventually the original will have a new head and consist of the same nodes, but linked differently. Using Linkedlist ADT. 
