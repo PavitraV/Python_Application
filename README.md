@@ -9,11 +9,11 @@ app3 : Uses Global Temperature Time Series, avalaible at http://data.okfn.org/da
 app4 : Randomly fills an array of size 10x10 with True and False, and outputs the number of blocks  in the largest block construction, determined by rows of True's that can be stacked on top of each other.   
   
 app5 : Prompts the user for a nonnegative integer that codes a set S as follows: 
-Bit 0 codes 0
-Bit 1 codes -1
-Bit 2 codes 1
-Bit 3 codes -2
-Bit 4 codes 2
-Bit 5 codes -3
-Bit 6 codes 3
+Bit 0 codes : 0
+Bit 1 codes : -1
+Bit 2 codes : 1
+Bit 3 codes : -2
+Bit 4 codes : 2
+Bit 5 codes : -3
+Bit 6 codes : 3
 ... Computes a derived nonnegative number that codes the set of running sums of the members of S when those are listed in increasing order. Computes the ordered list of members of a coded set.
