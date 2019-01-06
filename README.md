@@ -16,4 +16,8 @@ Bit 3 codes : -2
 Bit 4 codes : 2
 Bit 5 codes : -3
 Bit 6 codes : 3
-... Computes a derived nonnegative number that codes the set of running sums of the members of S when those are listed in increasing order. Computes the ordered list of members of a coded set.
+... Computes a derived nonnegative number that codes the set of running sums of the members of S when those are listed in increasing order. Computes the ordered list of members of a coded set.  
+  
+app6 : Randomly fills an array of size 10x10 with True and False, displayed as 1 and 0, and outputs the number chess knights needed to jump from 1s to 1s and visit all 1s (they can jump back to locations previously visited).  
+  
+app7 : 
