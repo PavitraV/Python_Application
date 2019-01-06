@@ -20,4 +20,8 @@ Bit 6 codes : 3
   
 app6 : Randomly fills an array of size 10x10 with True and False, displayed as 1 and 0, and outputs the number chess knights needed to jump from 1s to 1s and visit all 1s (they can jump back to locations previously visited).  
   
-app7 : 
+app7 : Defines two classes, Point() and Disk(). The latter has an "area" attribute and three methods:
+change_radius(r)
+intersects(disk), that returns True or False depending on whether
+the disk provided as argument intersects the disk object.
+absord(disk), that returns a new disk object that represents the smallest disk that contains both the disk provided as argument and the disk object. (Exploring Object Oriented Programming in Python). 
